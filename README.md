@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Coding-AS/Coding-AS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+#### I am an Java Developer
+
+Skills: Java
+
+- 🔭I’m in <b>Shen Zhen, China.</b>
+- 📫 How to reach me: codings@foxmail.com
+- MyBlog: [codingshen.cn](https://codingshen.cn)
