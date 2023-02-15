@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 Skills: Java
 
-- 🔭I’m in <b>Shen Zhen, China.</b>
-- 📫 How to reach me: codings@foxmail.com
-- MyBlog: [codingshen.cn](https://codingshen.cn)
+- 🔭 I’m in <b>Shen Zhen, China.</b>
+- 📧 How to reach me: codings@foxmail.com
+- 🌐 MyBlog: [codingshen.cn](https://codingshen.cn)
